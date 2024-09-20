@@ -1,0 +1,137 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 40px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondos.jpg");
+   
+
+}
+.titulo{
+font-size: 60px;
+color: black;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.img1{
+    height: 193px;
+    width: 300px;
+    background-image: url("piedra.jpeg");
+    background-repeat: no-repeat;
+    float: right;
+}
+.img2{
+    height: 500px;
+    width: 500px;
+    background-image: url("medellin.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img3{
+    height: 410px;
+    width: 800px;
+    background-image: url("e5d02673-10b6-4c07-b27c-e95608f7e759\ \(1\).jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img4{
+    height: 460px;
+    width: 800px;
+    background-image: url("ciclo.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img5{
+    height: 460px;
+    width: 800px;
+    background-image: url("menstual.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img6{
+    height: 320px;
+    width: 320px;
+    background-image: url("circuito\ electrico.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img7{
+    height: 320px;
+    width: 320px;
+    background-image: url("circuito.jpeg");
+    background-repeat: no-repeat;
+    float: unset;
+}
+
+.img8{
+    height: 500px;
+    width: 900px;
+    background-image: url("suma\ de\ polinomios.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img9{
+    height: 500px;
+    width: 900px;
+    background-image: url("resta\ de\ polinomios.jpeg");
+    background-repeat: no-repeat;
+    float: unset;
+}
+
+.img10{
+    height: 500px;
+    width: 900px;
+    background-image: url("multiplicacion\ de\ polinomios.jpeg");
+    background-repeat: no-repeat;
+    float: unset;
+}
+
+.img11{
+    height: 500px;
+    width: 900px;
+    background-image: url("division.jpeg");
+    background-repeat: no-repeat;
+    float: unset;
+}
+
+.img12{
+    height: 220px;
+    width: 800px;
+    background-image: url("anorexia.jpeg");
+    background-repeat: no-repeat;
+    float: unset;
+}
+
+.img13{
+    height: 220px;
+    width: 800px;
+    background-image: url("bulimia.jpeg");
+    background-repeat: no-repeat;
+    float: unset;
+}
+
+.img14{
+    height: 220px;
+    width: 800px;
+    background-image: url("desordenes.jpeg");
+    background-repeat: no-repeat;
+    float: unset;
+}
+
