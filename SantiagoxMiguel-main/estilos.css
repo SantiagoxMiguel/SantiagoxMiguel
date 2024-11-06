@@ -136,9 +136,9 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .img15{
-    height: 1200px;
-    width: 1000px;
-    background-image: url("logomenstrual.jpg");
+    height: 200px;
+    width: 200px;
+    background-image: url("logo\ menstrual.jpeg");
     background-repeat: no-repeat;
     float: left;
 }
@@ -204,6 +204,111 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     float: left;
 }
+
+
+.img24{
+    height: 200px;
+    width: 420px;
+    background-image: url("mapa.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img25{
+    height: 200px;
+    width: 420px;
+    background-image: url("futbol.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img26{
+    height: 250px;
+    width: 800px;
+    background-image: url("logo_polynomial_operations_resized_400x250.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img27{
+    height: 250px;
+    width: 800px;
+    background-image: url("logo\ circuito.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img28{
+    height: 250px;
+    width: 800px;
+    background-image: url("logo\ embaraxo.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img29{
+    height: 512px;
+    width: 512px;
+    background-image: url("logo\ enlaces\ quimicos.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img30{
+    height: 250px;
+    width: 400px;
+    background-image: url("logo\ configuracion\ electronica.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img31{
+    height: 250px;
+    width: 400px;
+    background-image: url("Diseño\ sin\ título\ \(1\).png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img32{
+    height: 250px;
+    width: 400px;
+    background-image: url("saber\ escuchar.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img33{
+    height: 250px;
+    width: 400px;
+    background-image: url("Diseño\ sin\ título\ \(2\).png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img34{
+    height: 250px;
+    width: 400px;
+    background-image: url("no\ la\ violecioa.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img35{
+    height: 250px;
+    width: 400px;
+    background-image: url("identidad.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img36{
+    height: 250px;
+    width: 400px;
+    background-image: url("estereotipos.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+
+
+
+
 
 
 
