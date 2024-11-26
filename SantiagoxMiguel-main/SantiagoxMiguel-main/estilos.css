@@ -6,14 +6,14 @@
     padding-top: 140px;
     text-align: justify;
     color: rgb(0, 0, 0);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Verdana, cursive, Tahoma, Verdana, sans-serif;
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondos.jpg");
+    background-image: url("fondo.jpg"); background-repeat: repeat-y;
    
 
 }
@@ -48,7 +48,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .img4{
-    height: 460px;
+    height: 220px;
     width: 800px;
     background-image: url("ciclo.jpg");
     background-repeat: no-repeat;
@@ -56,7 +56,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .img5{
-    height: 460px;
+    height: 220px;
     width: 800px;
     background-image: url("menstual.jpeg");
     background-repeat: no-repeat;
@@ -134,4 +134,192 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     float: unset;
 }
+
+.img15{
+    height: 200px;
+    width: 200px;
+    background-image: url("logo\ menstrual.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img16{
+    height: 200px;
+    width: 420px;
+    background-image: url("th.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+   
+.img17{
+    height: 200px;
+    width: 420px;
+    background-image: url("binomio\ conjugado.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+
+.img18{
+    height: 200px;
+    width: 420px;
+    background-image: url("cubo\ de\ un\ binomio.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img19{
+    height: 200px;
+    width: 420px;
+    background-image: url("factorizacion.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img20{
+    height: 200px;
+    width: 420px;
+    background-image: url("factor\ comun.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img21{
+    height: 200px;
+    width: 420px;
+    background-image: url("trinomio\ cuadrado\ perfecto.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img22{
+    height: 200px;
+    width: 420px;
+    background-image: url("diferencia\ de\ caudrados.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img23{
+    height: 200px;
+    width: 420px;
+    background-image: url("enlases\ ionicos.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+
+.img24{
+    height: 200px;
+    width: 420px;
+    background-image: url("mapa.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img25{
+    height: 200px;
+    width: 420px;
+    background-image: url("futbol.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img26{
+    height: 250px;
+    width: 800px;
+    background-image: url("logo_polynomial_operations_resized_400x250.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img27{
+    height: 250px;
+    width: 800px;
+    background-image: url("logo\ circuito.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img28{
+    height: 250px;
+    width: 800px;
+    background-image: url("logo\ embaraxo.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img29{
+    height: 512px;
+    width: 512px;
+    background-image: url("logo\ enlaces\ quimicos.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img30{
+    height: 250px;
+    width: 400px;
+    background-image: url("logo\ configuracion\ electronica.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img31{
+    height: 250px;
+    width: 400px;
+    background-image: url("Diseño\ sin\ título\ \(1\).png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img32{
+    height: 250px;
+    width: 400px;
+    background-image: url("saber\ escuchar.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img33{
+    height: 250px;
+    width: 400px;
+    background-image: url("Diseño\ sin\ título\ \(2\).png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img34{
+    height: 250px;
+    width: 400px;
+    background-image: url("no\ la\ violecioa.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img35{
+    height: 250px;
+    width: 400px;
+    background-image: url("identidad.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img36{
+    height: 250px;
+    width: 400px;
+    background-image: url("estereotipos.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+
+.img37{
+    height: 250px;
+    width: 400px;
+    background-image: url("anticonseptivos.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
 

@@ -22,14 +22,14 @@ ul, ol {
 
 .nav li a {
     background-color: #14cf0d;
-    color: #080808;
+    color: #000000;
     text-decoration: none;
     padding: 10px 12px;
     display: block;
 }
 
 .nav li a:hover {
-    background-color: #ef0404;
+    background-color: #33ef04;
 }
 
 .nav li ul {
